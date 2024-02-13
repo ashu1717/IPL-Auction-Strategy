@@ -16,8 +16,9 @@ This project aims to develop a comprehensive strategy for player selection in th
 
 ## Project Structure
 
-- **`data/`:** Contains the datasets used for analysis.
+- **`IPL_ball.csv/`:** Contains the ball-by-ball data  used for analysis.
+- **`IPL_matches.csv/`:** Contains the match data used for analysis.
 - **`IPL/`:** Includes SQL queries used for data extraction and analysis.
-- **`Course Project/`:** Includes the pdf of problem statement.
+- **`Course Project/`:** Includes the pdf of the problem statement.
 
 
